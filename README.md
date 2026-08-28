@@ -1,71 +1,73 @@
-## Hi there 👋
-
 # Hi, I'm Alisha Areej 👋
 
 ### Web Developer • BS IT Student
 
-Building clean, responsive and user-friendly web experiences.
+JavaScript • React • Next.js • Node.js
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a BS IT student focused on web development and practical
-software development.
+I'm a BS IT student passionate about web development and
+building practical software projects.
 
-I enjoy building projects, learning new technologies and
-turning ideas into functional web applications.
+I enjoy turning ideas into responsive, user-friendly web
+applications while continuously improving my programming
+and problem-solving skills.
 
-I'm currently focusing on modern JavaScript, React, Next.js
-and backend development.
+Currently, I'm expanding my knowledge of React, Next.js,
+backend development, REST APIs, and Python.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- C++
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp" />
+</p>
 
 ### Frontend
-- React
-- Next.js
-- Tailwind CSS
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- MongoDB
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
 ### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎵 Spotify Clone
-A Spotify-inspired web player interface built with HTML, CSS and JavaScript.
-
-### 🔗 URL Shortener
-A web application for creating shorter and more manageable URLs using Express.js and MongoDB.
-
-### 🐦 Twitter Clone
-A Twitter-inspired frontend project focused on responsive UI design.
-
-### 💱 Currency Converter
-A currency conversion application using APIs and JavaScript.
+| Project | Description | Technologies |
+|---|---|---|
+| 🎵 [Spotify Clone](https://github.com/Areej554-dev/spotify-clone) | A responsive Spotify-inspired web player interface with a clean and interactive UI. | HTML • CSS • JavaScript |
+| 🔗 [URL Shortener](https://github.com/Areej554-dev/url-shortener) | A web application designed to generate shorter and more manageable URLs. | HTML • CSS • JavaScript |
+| 🐦 [Twitter Clone](https://github.com/Areej554-dev/twitter-clone) | A responsive Twitter-inspired interface focused on recreating the platform's core visual experience. | HTML • CSS • JavaScript |
+| 💱 Currency Converter | A currency conversion application that fetches exchange-rate data through an API. | HTML • CSS • JavaScript • API |
 
 ---
 
 ## 🌱 Currently Learning
 
+- Python
 - Next.js
 - Backend Development
 - REST APIs
@@ -75,9 +77,9 @@ A currency conversion application using APIs and JavaScript.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/alisha-areej-289856404
+- 💼 LinkedIn: [Alisha Areej](https://linkedin.com/in/alisha-areej-289856404)
 - 🐙 GitHub: [Areej554-dev](https://github.com/Areej554-dev)
-- 📧 Email: alishaareej84@gmail.com
+- 📧 Email: [alishaareej84@gmail.com](mailto:alishaareej84@gmail.com)
 
 ---
 

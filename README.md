@@ -59,8 +59,9 @@ backend development, REST APIs, and Python.
 | Project | Description | Technologies |
 |---|---|---|
 | 🎵 [Spotify Clone](https://github.com/Areej554-dev/spotify-clone) | A responsive Spotify-inspired web player interface with a clean and interactive UI. | HTML • CSS • JavaScript |
-| 🔗 [URL Shortener](https://github.com/Areej554-dev/url-shortener) | A web application designed to generate shorter and more manageable URLs. | Express.js • MongoDB  |
-| 🐦 [Twitter Clone](https://github.com/Areej554-dev/twitter-clone) | A responsive Twitter-inspired interface focused on recreating the platform's core visual experience. | HTML • TailwindCSS |
+| 🔐 [Password Vault](YOUR_PASSWORD_VAULT_REPO_LINK) | A secure and user-friendly password manager for storing and managing website credentials locally. | React • Vite • JavaScript • Tailwind CSS • Local Storage |
+| 🔗 [URL Shortener](https://github.com/Areej554-dev/url-shortener) | A web application designed to generate shorter and more manageable URLs. | Express.js • MongoDB |
+| 🐦 [Twitter Clone](https://github.com/Areej554-dev/twitter-clone) | A responsive Twitter-inspired interface focused on recreating the platform's core visual experience. | HTML • Tailwind CSS |
 | 💱 [Currency Converter](https://github.com/Areej554-dev/currency-converter) | A currency conversion application that fetches exchange-rate data through an API. | HTML • CSS • JavaScript • API |
 
 ---
